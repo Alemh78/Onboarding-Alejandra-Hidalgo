@@ -1,9 +1,8 @@
-
-
+/*
 
 let myName="Alejandra"
 let myLastName="Hidalgo"
-//const myAge=("45")
+const myAge=("45")
 const myPet="Gato"
 const petAge=("3")
 
@@ -109,5 +108,4 @@ console.log(familia[3])
 console.log(familia[4])
 
  const randomText=console.log("manzana 6 Alejandra")
-
-
+*/
